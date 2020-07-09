@@ -11,11 +11,11 @@ $EM_CONF['tscobj'] = [
     'author' => 'Simon Schaufelberger',
     'author_email' => 'simonschaufi+tscobj@gmail.com',
     'author_company' => '',
-    'version' => '1.0.2',
+    'version' => '1.1.0',
     'constraints' => [
         'depends' => [
             'php' => '7.1.0-7.99.99',
-            'typo3' => '8.7.0-8.99.99',
+            'typo3' => '8.7.0-9.5.99',
         ],
         'conflicts' => [],
         'suggests' => [],
